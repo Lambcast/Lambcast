@@ -1,16 +1,16 @@
-## Hi there 👋
+Lambcast
+Quantitative forecasting and applied economics portfolio.
+M.S. Applied Economics (STEM) · University of Maryland · Expected December 2026
 
-<!--
-**Lambcast/Lambcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Active Projects
+AI Infrastructure & Regional Electricity Demand
+Causal analysis of AI data center buildout on U.S. regional electricity demand using difference-in-differences and event study methods. Data: EIA hourly demand (700K+ records), PJM interconnection queue. Final output: interactive Hex dashboard.
+ECON 687 – Economic Applications of R
+Coursework and applied exercises in R for econometric analysis.
 
-Here are some ideas to get you started:
+Methods & Tools
+Difference-in-Differences Event Study OLS Fixed Effects Causal Inference
+Stata Python R EIA API Pandas Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio & Forecasting
+🌐 lambcast.net
