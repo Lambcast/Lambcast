@@ -22,5 +22,6 @@ Coursework and applied exercises in R for econometric analysis.
 ---
 
 ## Portfolio & Forecasting
-🌐 [lambcast.net](https://lambcast.net)
+🌐 [lambcast.net](https://lambcast.net)  
+📄 [Resume (PDF)](https://github.com/Lambcast/resume/blob/main/Alan_Lamb_Resume_Redacted.pdf)
 
